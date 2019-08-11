@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "e-mail": "aoliveira@gmail.com",
+      "email": "cem_sc@siscan.gov.br"
+    },
+    {
+      "id": 2,
+      "name": "Fernanda da Silva",
+      "e-mail": "fdasilva@gmail.com",
+      "email": "cpdsaude.bigua@gmail.com"
+    }
+  ]
+}
